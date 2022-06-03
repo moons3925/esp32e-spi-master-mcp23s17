@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "esp_log.h": "c",
+        "freertos.h": "c",
+        "spi_mcp23s17.h": "c",
+        "spi_master.h": "c"
+    }
+}
